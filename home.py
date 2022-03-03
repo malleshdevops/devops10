@@ -1,6 +1,3 @@
 home
 devops
 
-difference
-
-users
